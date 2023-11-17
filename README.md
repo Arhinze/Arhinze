@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arhinze
 - 👀 I write codes while not playing chess||checkers
-- 🌱 I’m currently learning php
+- 🌱 I’m into software development(web, mobile apps) using php/laravel, javascript/react, kotlin/android studio
 - 💞️ Hit me up for tea, cruise, parties 
      and everything in-between :)
 - 📫 How to reach me: twitter: @arhinze, 
